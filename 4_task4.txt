@@ -1,0 +1,15 @@
+Ways which help us to improve the accessibility of HTML-
+
+1-Image alternative text - Add descriptive altetnative text (alt text) to all images using the alt attribute.
+Example- <img src="photo.png" alt="Random Pic"/>
+
+2-Ensuring proper heading structure of Semantic Structure of HTML- practice the use of proper semantic
+structure, by using appropriate HTML elements like <h1>, <nav>, <main>, <article>, <button>, and <label> to
+convey the purpose and role of each element.
+
+3-Making links descriptive - To make a link descriptive in HTML, meaning full and descriptive text in the anchor
+<a> element should be used.
+Example - 
+<a href="https://www.example.com"
+title="Read the latest blog post" >web-development</a>
+

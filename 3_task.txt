@@ -1,0 +1,19 @@
+Accessibility -
+Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:
+- perceive, understand, navigate, and interact with the Web
+-contribute to the Web
+
+
+Why it is essential to create accessible website -
+-To identify accessibility issues :- It can help you to identify accessibility issues in your website or web
+application before users with disabilities encounter them.
+
+-To meet accessibility standards - it can help you to ensure that our website or web application meets
+accessibility standards
+
+-To improve usability - Accessibility automated testing software tools can help us to improve the usability of
+your website or web application for everyone, not just users with disabilities, as a result, it can help you to
+increase user satisfaction and engagement.
+
+How it benefits different user group - 
+Accessibility optimises experiences for diverse user needs, including people with permanent impairments. 

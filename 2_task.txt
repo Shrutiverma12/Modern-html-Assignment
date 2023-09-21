@@ -1,0 +1,14 @@
+HTML Entities - 
+The reserved characters used in HTML documents are known as HTML Entities .They  are not seen on the typical
+keyboard .They provide a wide range of characters, allowing you to add icons, geometric shapes,
+mathematical operators, and so on.
+
+Commonly used HTML entities-
+
+ Notation  |  Description          |   Entity name  |  Entity Number
+    <	   | less than             |    &lt	        |    &#60;
+    ©	   | copyright             |    &copy	    |    &#169;
+    &	   | ampersand             |    &amp	    |    &#38;
+    >      | greater than          |    &gt;        |    &#62;
+    ®	   |registered  trademark  |	&reg;	    |    &#174;
+            
